@@ -1,6 +1,3 @@
-I'll add three more symptoms for each disease in the symptom-based prediction section and update the code accordingly. Here's the updated Streamlit code with the additional symptoms:
-
-```python
 import pickle
 import numpy as np
 import pandas as pd
@@ -289,4 +286,3 @@ elif app_mode == "More Info":
     """)
 
 st.sidebar.info('This app is for educational purposes only and should not be used as a substitute for professional medical advice, diagnosis, or treatment.')
-```
